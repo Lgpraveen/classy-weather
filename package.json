@@ -2,7 +2,7 @@
   "name": "classy-weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lgpraveen.github.io/travel-list",
+  "homepage": "https://Lgpraveen.github.io/classy-weather",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
